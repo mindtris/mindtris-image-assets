@@ -1,0 +1,1 @@
+# mindtris-image-assets
